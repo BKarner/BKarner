@@ -1,16 +1,14 @@
-### Hi there 👋
+### Software Developer @ CR Games / Software Technical Lead @ PowerKeg Studios
+#### Developing SA-RP GTA:V roleplay mod @ https://www.sa-rp.com
 
-<!--
-**BKarner/BKarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### 💬 Benlyon1994@gmail.com
+### 🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) 
 
-Here are some ideas to get you started:
+#### [](https://github.com/BKarner#self-learning)What I'm working on
+- **SA-RP** *(Typescript/Javascript ES6/HTML5/React)* 🕹[Play Here](https://www.sa-rp.com)
+- **Bee-Bee-Gone** *(Unity/C#)* 👨‍💻[Repository](https://github.com/BKarner/Bee-Bee-Gone)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [](https://github.com/BKarner#project-manifest)Previous Projects (No specific Order)
+- **ChibiMaw** *(Unity/C#)* 🕹[Play Here](https://karner.itch.io/chibimaw)
+- **My Name Is...** *(UE4/C++)* 🕹[Play Here](https://el-fideo-rubio.itch.io/my-name-is)
+- **Belial - Harbinger of Souls** *(UE4/C++)* 👨‍💻[Repository](https://github.com/BKarner/Belial-Harbinger-of-Souls)

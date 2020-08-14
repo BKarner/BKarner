@@ -13,7 +13,7 @@
 
 #### [](https://github.com/BKarner#goals) Professional Goals:
 - ~~Learn Babel/Webpacking/NPM~~
-- ~~Learn Typescript
+- ~~Learn Typescript~~
 - Learn React / React Hooks
 - Learn Angular
 - Touch up on base CSS/HTML5 skills

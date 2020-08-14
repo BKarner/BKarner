@@ -12,8 +12,8 @@
 - **Belial - Harbinger of Souls** *(UE4/C++)* 👨‍💻 [Repository](https://github.com/BKarner/Belial-Harbinger-of-Souls)
 
 #### [](https://github.com/BKarner#goals) Professional Goals:
-- Learn Babel/Webpacking/NPM [✔]
-- Learn Typescript [✔]
+- Learn Babel/Webpacking/NPM [✓]
+- Learn Typescript [✓]
 - Learn React / React Hooks [ ]
 - Learn Angular [ ]
 - Touch up on base CSS/HTML5 skills [ ]

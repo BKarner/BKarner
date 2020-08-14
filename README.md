@@ -1,8 +1,7 @@
 ### Software Developer @ CR Games / Software Technical Lead @ PowerKeg Studios
-#### Developing SA-RP GTA:V roleplay mod @ https://www.sa-rp.com
-
 ##### 💬 Benlyon1994@gmail.com
-### 🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) 
+
+🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) 
 
 [](https://github.com/BKarner#self-learning)What I'm working on
 - **SA-RP** *(Typescript/Javascript ES6/HTML5/React)* 🕹[Play Here](https://www.sa-rp.com)

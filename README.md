@@ -11,7 +11,7 @@
 - **My Name Is...** *(UE4/C++)* 🕹 [Play Here](https://el-fideo-rubio.itch.io/my-name-is) / 👨‍💻 [Repository](https://github.com/elfideorubio/ECjam3)
 - **Belial - Harbinger of Souls** *(UE4/C++)* 👨‍💻 [Repository](https://github.com/BKarner/Belial-Harbinger-of-Souls)
 
-#### [](https://github.com/BKarner#goals) Professional Goals:
+#### [](https://github.com/BKarner#goals) Professional Goals for 2020:
 - ~~Learn Babel/Webpacking/NPM~~
 - ~~Learn Typescript~~
 - Learn React / React Hooks

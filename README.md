@@ -16,5 +16,5 @@
 - ~~Learn Typescript~~
 - Learn React / React Hooks
 - Learn Angular
-- Touch up on base CSS/HTML5 skills
+- ~~Touch up on base CSS/HTML5 skills~~
 - Release a small game title

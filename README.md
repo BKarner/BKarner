@@ -12,7 +12,7 @@
 - **Belial - Harbinger of Souls** *(UE4/C++)* 👨‍💻 [Repository](https://github.com/BKarner/Belial-Harbinger-of-Souls)
 
 #### [](https://github.com/BKarner#goals) Professional Goals for 2020:
-- ~~Learn Babel/Webpacking/NPM~~
+- ~~Touch up on Babel/Webpacking/NPM~~
 - ~~Learn Typescript~~
 - Learn React / React Hooks
 - Learn Angular

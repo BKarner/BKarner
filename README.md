@@ -18,3 +18,4 @@
 - Learn Angular
 - ~~Touch up on base CSS/HTML5 skills~~
 - Release a small game title
+- Remake / Refactor "Belial - Harbinger of Souls" project with newer engine / better code.

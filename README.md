@@ -2,7 +2,7 @@
 
 🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) | 💬 Benlyon1994@gmail.com
 
-#### [](https://github.com/BKarner#self-learning)What I'm working on:
+#### [](https://github.com/BKarner#self-learning)Open Projects:
 - **Bee-Bee-Gone** *(Unity/C#)* 👨‍💻 [Repository](https://github.com/BKarner/Bee-Bee-Gone)
 
 #### [](https://github.com/BKarner#project-manifest)Previous Projects:

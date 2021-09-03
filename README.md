@@ -4,7 +4,7 @@
 
 #### [](https://github.com/BKarner#self-learning)Open Projects:
 - **Bee-Bee-Gone** *(Unity/C#)* 👨‍💻 [Repository](https://github.com/BKarner/Bee-Bee-Gone)
-- - **LC-RP** *(Javascript ES6/HTML5/React)* 🕹 [Play Here](https://lc-rp.mp/)
+- **LC-RP** *(Javascript ES6/HTML5/React)* 🕹 [Play Here](https://lc-rp.mp/)
 
 #### [](https://github.com/BKarner#project-manifest)Previous Projects:
 - **ChibiMaw** *(Unity/C#)* 🕹 [Play Here](https://karner.itch.io/chibimaw)

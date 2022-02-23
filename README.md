@@ -1,6 +1,6 @@
-### Software Developer @ CR Games
+### Games Developer @ [Live 5 Gaming](https://live5gaming.com/)
 
-🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) | 💬 Benlyon1994@gmail.com | 👨‍💻 [Gitlab](https://gitlab.com/benlyon1994)
+🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) | 💬 Benlyon1994@gmail.com
 
 #### [](https://github.com/BKarner#self-learning)Open Projects:
 - **Bee-Bee-Gone** *(Unity/C#)* 👨‍💻 [Repository](https://github.com/BKarner/Bee-Bee-Gone)

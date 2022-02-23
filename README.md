@@ -4,7 +4,6 @@
 
 #### [](https://github.com/BKarner#self-learning)Open Projects:
 - **Bee-Bee-Gone** *(Unity/C#)* 👨‍💻 [Repository](https://github.com/BKarner/Bee-Bee-Gone)
-- **LC-RP** *(Javascript ES6/HTML5/React)* 🕹 [Play Here](https://lc-rp.mp/)
 
 #### [](https://github.com/BKarner#project-manifest)Previous Projects:
 - **ChibiMaw** *(Unity/C#)* 🕹 [Play Here](https://karner.itch.io/chibimaw)
@@ -12,7 +11,3 @@
 - **Shattered Space** *(Unity/C#)* 📺 [Video](https://www.youtube.com/watch?v=joWyH7boFzQ)
 - **Belial - Harbinger of Souls** *(UE4/C++)* 👨‍💻 [Repository](https://github.com/BKarner/Belial-Harbinger-of-Souls)
 - **SA-RP** *(Typescript/Javascript ES6/HTML5/React)* 📺 [Video](https://www.youtube.com/watch?v=VcOfJ1SrRpA)
-
-#### [](https://github.com/BKarner#goals) Professional Goals for 2021:
-- Release a small game title
-- Remake / Refactor "Belial - Harbinger of Souls" project with newer engine / better code.

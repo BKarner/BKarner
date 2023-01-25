@@ -1,4 +1,4 @@
-### Games Developer @ [Live 5 Gaming](https://live5gaming.com/)
+### Senior Software Engineer @ [IGT](https://www.igt.com/)
 
 🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) | 💬 Benlyon1994@gmail.com
 

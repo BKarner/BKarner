@@ -1,5 +1,4 @@
-### Senior Software Engineer @ [EA Frostbite]([https://www.igt.com/](https://www.ea.com/frostbite))
-### CEO / Director @ [Vanguard Games Ltd](https://www.vanguardgames.co.uk/)
+## Senior Software Engineer @ [EA Frostbite](https://www.ea.com/frostbite) & CEO / Director @ [Vanguard Games Ltd](https://www.vanguardgames.co.uk/)
 
 🎮 [Game Portfolio](https://karner.itch.io/) | 👔 [LinkedIn](https://www.linkedin.com/in/blyon94/) | 💬 Benlyon1994@gmail.com
 
